@@ -1,0 +1,243 @@
+ * {
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+ /*header style start*/
+
+ header {}
+
+
+ .header {
+ 	width: 100%;
+ 	margin: 0 auto;
+ 	background-color: #525253;
+ 	overflow: hidden;
+
+ }
+
+ .logo {
+ 	width: 20%;
+ 	float: left;
+ 	min-height: 70px;
+ }
+
+ .circle {
+ 	border: 1px solid black;
+ 	min-height: 50px;
+ 	margin-left: 22px;
+ 	width: 35%;
+ 	border-radius: 50%;
+ 	background-color: #BDBEC0;
+ 	margin-top: 8px;
+ 	border: transparent;
+ }
+
+ .nav {
+
+ 	float: right;
+ }
+
+ .nav ul {}
+
+ .nav ul li {
+ 	border: 1px solid #525253;
+ 	min-height: 22px;
+ 	width: 79px;
+ 	float: left;
+ 	margin: auto 17px;
+ 	margin-top: 20px;
+ 	list-style: none;
+ 	background-color: #BDBEC0;
+ 	border: transparent;
+ }
+
+ .nav ul li a {
+ 	text-decoration: none;
+
+ }
+
+ /*header style start*/
+
+ /*banner style start*/
+
+ .banner {
+ 	width: 100%;
+ 	min-height: 200px;
+ 	background-color: #BDBEC0;
+ }
+
+ .banner h1 {
+ 	text-align: center;
+ 	font-size: 40px;
+ 	padding: 70px 0px;
+ }
+
+ /*banner style end*/
+
+ /*service style start*/
+
+ /*service top start*/
+
+ .service {}
+
+ .wrapper {
+ 	width: 80%;
+ 	margin: 0 auto;
+ }
+
+ .service_top {
+ 	width: 100%;
+ 	margin-top: 20px;
+ }
+
+ .service_top1 {
+ 	border: 1px solid black;
+ 	min-height: 30px;
+ 	background-color: gray;
+ 	border: transparent;
+ 	border-radius: 5px;
+ }
+
+ .service_top2 {
+ 	border: 1px solid black;
+ 	min-height: 10px;
+ 	background-color: #BDBEC0;
+ 	border: transparent;
+ 	margin-top: 10px;
+ 	border-radius: 5px;
+ }
+
+ .last-child {
+ 	width: 80%;
+ }
+
+ /*service top end*/
+
+ /*service middle start*/
+
+ .wrapper1 {
+ 	width: 90%;
+ 	margin: 0 0 0 10%;
+ }
+
+ .service_middleh {
+ 	overflow: hidden;
+
+ }
+
+ .service_middle {
+ 	margin-top: 30px;
+ 	float: left;
+ 	width: 100%;
+ }
+
+ .service_middle_left {
+ 	width: 40%;
+ 	float: left;
+ 	margin-top: 18px;
+ }
+
+ .service_middle_left .sm_1 {
+ 	border: 1px solid black;
+ 	min-height: 20px;
+ 	background-color: gray;
+ 	border: transparent;
+ 	border-radius: 5px;
+ }
+
+ .sm_2 {
+ 	border: 1px solid black;
+ 	min-height: 10px;
+ 	background-color: #BDBEC0;
+ 	border: transparent;
+ 	margin-top: 10px;
+ 	border-radius: 5px;
+ }
+
+ .sm_22 {
+ 	width: 70%;
+ }
+
+ .sm_11 {
+ 	border: 1px solid black;
+ 	min-height: 20px;
+ 	background-color: gray;
+ 	border: transparent;
+ 	border-radius: 5px;
+ 	margin-top: 20px;
+ }
+
+ .service_middle_right {
+ 	width: 55%;
+ 	border: 1px solid black;
+ 	min-height: 176px;
+ 	background-color: #BDBEC0;
+ 	border: transparent;
+ 	float: right;
+ }
+
+ .sm_33 {
+ 	border: 1px solid black;
+ 	min-height: 10px;
+ 	background-color: #BDBEC0;
+ 	border: transparent;
+ 	margin-top: 10px;
+ 	border-radius: 5px;
+ }
+
+ .sm_333 {
+ 	width: 80%;
+ }
+
+ /*service middle end*/
+
+ /*service gallary start*/
+
+ .service_gallary {
+ 	margin-top: 30px;
+ 	overflow: hidden;
+ }
+
+ .gallary_part {
+ 	width: 100%;
+ 	float: left;
+ }
+
+ .single_gallary {
+ 	width: 31%;
+ 	border: 1px solid black;
+ 	min-height: 180px;
+ 	background-color: #BDBEC0;
+ 	border: transparent;
+ 	float: left;
+ }
+
+ .sg_sceond {
+ 	margin: 0 3%;
+ }
+
+ /*service gallary end*/
+
+ /*service last part style start*/
+
+ .service_lastpart {
+ 	margin-top: 20px;
+ }
+
+ /*service last part style end*/
+
+ /*service style end*/
+
+ /*footer style start*/
+
+ .footer {
+ 	width: 100%;
+ 	border: 1px solid black;
+ 	min-height: 180px;
+ 	background-color: #BDBEC0;
+ 	border: transparent;
+ 	margin-top: 25px;
+ }
+
+ /*footer style end*/
